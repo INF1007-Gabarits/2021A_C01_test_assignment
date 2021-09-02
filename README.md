@@ -1,29 +1,11 @@
 
-# Transformer une lettre minuscule en majuscule
+# Test de la plateforme github
 
 
 ## Objectif
 
-Modifier les caractères pour que les lettres minuscules se transforment en majuscule, sans utiliser la fonction upper() de Python.
+Tester la plateforme github
 
-### Exemple
-```python
-print(majuscule('bonjour'))
-```
-BONJOUR
-
-### À compléter
-Vous devez compléter la fonction suivante du fichier [exercice.py](exercice.py).
-
-```python
-def majuscule(mot):
-    #TODO completer la fonction
-    return mot
-```
-
-## Connaissances utiles
-
-### Encodage
-[Tableau ASCII](http://www.asciitable.com/)
+Modifier le fichier exercice.py et envoyer les modifications sur github.
 
 Les fonctions [ord() et chr()](https://docs.python.org/3.4/library/functions.html?highlight=ord) permettent de convertir des données caractères.
